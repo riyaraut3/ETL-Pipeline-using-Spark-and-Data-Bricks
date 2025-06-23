@@ -1,4 +1,4 @@
-# 🍏 Apple Customer Purchase Analysis — PySpark ETL Pipeline
+# Apple Customer Purchase Analysis — PySpark ETL Pipeline
 
 A scalable end-to-end ETL pipeline built with **PySpark** on **Databricks**, designed to analyze Apple customer purchasing behavior and extract valuable business insights.
 
@@ -50,11 +50,11 @@ This project solidified advanced concepts in big data engineering:
 ---
 
 ## 📁 Project Structure
-apple_data_analysis.py # Main pipeline runner
-extractor.py # Handles data extraction logic
-reader_factory.py # Factory for creating data readers
-transform.py # Business transformations and analysis
-loader.py # Handles data writing logic
-loader_factory.py # Factory for creating data loaders
-architecture_diagram.png # Visual architecture of the ETL pipeline
+- apple_data_analysis.py # Main pipeline runner
+- extractor.py # Handles data extraction logic
+- reader_factory.py # Factory for creating data readers
+- transform.py # Business transformations and analysis
+- loader.py # Handles data writing logic
+- loader_factory.py # Factory for creating data loaders
+- architecture_diagram.png # Visual architecture of the ETL pipeline
 
