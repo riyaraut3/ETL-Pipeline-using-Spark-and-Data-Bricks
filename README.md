@@ -36,8 +36,6 @@ Implemented business-driven use cases:
 
 ### 📦 Load
 - Output datasets written to **Delta Lake tables** and **Parquet files**.
-- Data ready for downstream BI reporting or ML use cases.
-
 ---
 
 ## ✅ Key Learnings
